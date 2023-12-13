@@ -1,0 +1,14 @@
+{
+  "name": "chatbot_nodejs",
+  "version": "1.0.0",
+  "description": "Create Chatbot with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Vishal Mehta",
+  "license": "ISC",
+  "dependencies": {
+    "node-nlp": "^4.27.0"
+  }
+}
